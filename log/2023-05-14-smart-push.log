@@ -1,0 +1,9 @@
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2023-05-14 00:00:26"}
+{"level":"error","message":"App - editInfo Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?, ?, ?, ?, ?, ?, ?, now(), '1', '36.5', 1)' at line 1","timestamp":"2023-05-14 00:00:29"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2023-05-14 00:04:22"}
+{"level":"error","message":"App - editInfo Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?, ?, ?, ?, ?, ?, ?, now(), '1', '36.5', 1)' at line 1","timestamp":"2023-05-14 00:04:27"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2023-05-14 00:07:22"}
+{"level":"error","message":"App - editInfo Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?, ?, ?, ?, ?, ?, ?, now(), '1', '36.5', 1)' at line 1","timestamp":"2023-05-14 00:07:23"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2023-05-14 00:13:57"}
+{"level":"error","message":"App - editInfo Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@gmail.com, 01033334444, 1999-09-01, 1, ii112323, now(), '1', '36.5', 1)' at line 1","timestamp":"2023-05-14 00:14:02"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2023-05-14 00:15:36"}

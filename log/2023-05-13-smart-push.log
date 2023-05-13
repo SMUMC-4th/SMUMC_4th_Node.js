@@ -1,0 +1,12 @@
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2023-05-13 23:33:41"}
+{"level":"error","message":"App - editInfo Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?, ?, ?, ?, ?, ?, ?,now() ,'1','36.5','1')' at line 2","timestamp":"2023-05-13 23:38:06"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2023-05-13 23:45:22"}
+{"level":"error","message":"App - editInfo Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?, ?, ?, ?, ?, ?, ?,now() ,'1','36.5','1')' at line 2","timestamp":"2023-05-13 23:45:27"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2023-05-13 23:46:51"}
+{"level":"error","message":"App - editInfo Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?, ?, ?, ?, ?, ?, ?,now() ,'1','36.5','1')' at line 2","timestamp":"2023-05-13 23:46:54"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2023-05-13 23:48:01"}
+{"level":"error","message":"App - editInfo Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?, ?, ?, ?, ?, ?, ?,now() ,'1','36.5','1')' at line 1","timestamp":"2023-05-13 23:48:02"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2023-05-13 23:53:03"}
+{"level":"error","message":"App - editInfo Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?, ?, ?, ?, ?, ?, ?, now(), '1', '36.5', '1')' at line 1","timestamp":"2023-05-13 23:53:09"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2023-05-13 23:57:21"}
+{"level":"error","message":"App - editInfo Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '[0], Info[1], Info[2], Info[3], Info[4], Info[5], Info[6], now(), '1', '36.5', '' at line 1","timestamp":"2023-05-13 23:57:26"}
