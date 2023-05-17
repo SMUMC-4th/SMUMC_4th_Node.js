@@ -21,5 +21,5 @@ exports.sign_up = async function (req, res) {
     const Info = [userid, name, email, phone, birth, sex, password];
 
     const userInfo = await userService.createInfo(Info);
-    return res.send(response(baseResponse.SUCCESS, userInfo));
+    return res.send(response(baseResponse.SIGNUP, userInfo));
   };
