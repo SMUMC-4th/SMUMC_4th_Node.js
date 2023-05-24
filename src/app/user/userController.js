@@ -22,4 +22,27 @@ exports.sign_up = async function (req, res) {
 
     const userInfo = await userService.createInfo(Info);
     return res.send(response(baseResponse.SIGNUP, userInfo));
-  };
+};
+
+/**
+ * API No. 3
+ * API Name : 특정 유저 조회 api
+ * [GET] /app/users/:userid
+ */
+exports.getUser = async function (req, res) {
+    var userid = req.query.userid;
+    var name = req.body.name;
+    var email = req.body.email;
+
+    const Info = [userid, name, email];
+
+    const userInfo = await userProvider.getUser(Info);
+    return res.send(response(baseResponse.FINDUSER, userInfo));
+};
+
+exports.getnickname = async function (req, res) {
+    var nickname = req.params.nickname;
+
+    const userNickname = await userProvider.getuserNickname(nickname);
+    return res.send(response(baseResponse.FINDUSER, userNickname));
+};

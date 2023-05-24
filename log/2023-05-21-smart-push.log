@@ -1,0 +1,22 @@
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2023-05-21 19:05:42"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2023-05-21 19:08:45"}
+{"level":"error","message":"App - Service error\n: Unknown column 'undefined' in 'field list'","timestamp":"2023-05-21 19:11:38"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2023-05-21 19:13:40"}
+{"level":"error","message":"App - Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '[object Object], '박민희', 'himinsunsine@naver.com', 'undefined', 'undefined'' at line 2","timestamp":"2023-05-21 19:13:41"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2023-05-21 19:14:24"}
+{"level":"error","message":"App - editInfo Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '[object Object], '박민희', 'himinsunsine@naver.com')' at line 2","timestamp":"2023-05-21 19:14:32"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2023-05-21 19:16:11"}
+{"level":"error","message":"App - editInfo Service error\n: Unknown column 'undefined' in 'field list'","timestamp":"2023-05-21 19:16:12"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2023-05-21 19:17:19"}
+{"level":"error","message":"App - editInfo Service error\n: Unknown column 'undefined' in 'field list'","timestamp":"2023-05-21 19:17:23"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2023-05-21 19:18:13"}
+{"level":"error","message":"App - editInfo Service error\n: Unknown column 'undefined' in 'field list'","timestamp":"2023-05-21 19:18:14"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2023-05-21 19:19:30"}
+{"level":"error","message":"App - editInfo Service error\n: Unknown column 'undefined' in 'field list'","timestamp":"2023-05-21 19:19:30"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2023-05-21 19:20:53"}
+{"level":"error","message":"App - editInfo Service error\n: userid is not defined","timestamp":"2023-05-21 19:20:58"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2023-05-21 19:21:16"}
+{"level":"error","message":"App - editInfo Service error\n: Unknown column 'undefined' in 'field list'","timestamp":"2023-05-21 19:21:19"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2023-05-21 19:22:07"}
+{"level":"error","message":"App - editInfo Service error\n: Unknown column 'undefined' in 'field list'","timestamp":"2023-05-21 19:22:07"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2023-05-21 19:25:08"}

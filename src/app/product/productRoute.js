@@ -20,7 +20,7 @@ module.exports = function (app) {
     const product = require("./productController");
   
     //4. 상품 판매 글 올리기 api
-    // app.post("/app/products/post", product.post);
+    app.post("/app/products/post", product.post);
     
     //5. 판매 게시글 수정하기 API
     // app.post("/app/products/:product_id/post", product.repost);

@@ -13,8 +13,9 @@ module.exports = function (app) {
     // app.get("/app/users", user.getUsers);
   
     //3. 특정 유저 조회 api
-    // app.get("/app/users/:user_id", user.getUser);
+     app.get("/app/users/:userid", user.getUser);
 
-    
+    //6. 닉네임으로 조회하기
+	 app.get("/app/user",user.getnickname);
   };
   
